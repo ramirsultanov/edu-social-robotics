@@ -1,3 +1,3 @@
 [submodule "2"]
 	path = 2
-	url = ./2/
+	url = git@github.com:ramirsultanov/edu-social-robotics-2.git
