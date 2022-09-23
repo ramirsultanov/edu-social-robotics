@@ -1,3 +1,6 @@
 [submodule "2"]
 	path = 2
 	url = git@github.com:ramirsultanov/edu-social-robotics-2.git
+[submodule "3"]
+	path = 3
+	url = git@github.com:ramirsultanov/edu-social-robotics-3.git
